@@ -3,5 +3,5 @@
 
 <br>
 
-![Screenshots](/Pics/Guild.png)
-![Screenshots](/Pics/User.png)
+![Screenshots](/Pics/Guild.PNG)
+![Screenshots](/Pics/User.PNG)
